@@ -86,7 +86,7 @@ h1{
         left:20px;
     }
 }
-@media (min-width:301px) and  (max-width:600px){
+@media (min-width:301px) {
     .id3{
         top:600px;
         left:20px;
