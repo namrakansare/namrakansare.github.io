@@ -74,13 +74,13 @@ font-family:sans-serif;
 h1{
     text-align: center;
 }
-@media screen  and (max-width:500px){
+@media screen  and (min-width:992px){
     .id3{
         top:300px;
         left:20px;
     }
 }
-@media screen and(max-width:250px){
+@media (min-width:768px)and(max-width:991px){
     .id2{
 
         top:300px;
